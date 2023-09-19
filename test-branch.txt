@@ -1,0 +1,5 @@
+Asawira Emaan is editing contents.:wq
+:wq
+:wq
+:q!
+
